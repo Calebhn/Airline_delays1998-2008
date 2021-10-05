@@ -1,6 +1,7 @@
 # Airline_Delays1998_2008
-This code will answer 3 main questions concerning Aircraft delays and cancelled flights.
- to read about the findings you can go to:
+This code will answer 3 main questions concerning Aircraft delays and cancelled flights. 
+
+To read about the findings you can go to:
  https://medium.com/@caleb1996hn/no-one-likes-changing-schedules-7b7776298b8c 
  
  Airline_Carriers_model.ipynb contains the linear model and statistics to answer the questions raised. 
