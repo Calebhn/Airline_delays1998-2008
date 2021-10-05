@@ -11,4 +11,5 @@ This code will answer 3 main questions concerning Aircraft delays and cancelled 
 
 Outputs:
 - lm_model: optimum lm_model for a given number of features.
-![alt text](http://url/to/img.png)
+
+![alt text](https://github.com/Calebhn/Airline_delays1998-2008/blob/main/Images/r2_vs_features.png)
